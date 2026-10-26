@@ -1,0 +1,6 @@
+{
+  "name": "Austin Elite Lawn Care",
+  "description": "Professional lawn care, weed control, Texas fertilization, mulching, and core aeration in Austin, TX with instant online estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
